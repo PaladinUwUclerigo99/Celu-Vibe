@@ -1,0 +1,11 @@
+
+        body { background-color: #F5E5D8; color: #4D3227; font-family: Arial, sans-serif; }
+        .header-bg { background-color: #F5E5D8; }
+        .button-dark { background-color: #382A20; color: white; }
+        .button-light { background-color: #D3B8A1; color: #4D3227; border: 1px solid #4D3227; }
+        .section-bg { background-color: #F5E5D8; }
+        .overlay { background: none; padding: 20px; }
+        .content-bg { background-color: #483528; color: white; padding: 10px; }
+        .spaced-text { letter-spacing: 0.5em; text-transform: uppercase; }
+        .btn-group button { padding: 10px 20px; font-size: 16px; border-radius: 30px; font-weight: bold; }
+   
